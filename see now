@@ -1,0 +1,12 @@
+//jdbc connectivity - replace with your driver file path and java file_name
+
+javac -cp ".;C:\Users\Pothiraju\Downloads\ojdbc11.jar" file_name.java // to compile
+
+java -cp ".;C:\Users\Pothiraju\Downloads\ojdbc11.jar" file_name // to run
+
+//don't forget the ".;" before the driver path
+
+
+
+that path is your driver path, which is in documents/downloads, ojdbc11.jar something
+and the file is in dowloads/documents name is dba.java
